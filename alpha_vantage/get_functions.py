@@ -10,7 +10,7 @@ import pandas as pd
 
 
 def getIDSymbol(symbol, connection = engine):
-    df = pd.read_sql('select id from public.investment_company where symbol = {}'.format(symbol), con = connection)
+    df = pd.read_sql("""select id from public.investment_company where symbol = '{}'""".format(symbol), con = connection)
     return df.iloc[0]['id']
 
 def getIDCompanyCommon(company_id, date, period, connection = engine):
@@ -33,7 +33,7 @@ def getIDPhysicalCurrency(currency_code, connection = engine):
                 select id from public.investment_physicalcurrency
                 where
                     1=1
-                    and currency_code = {}
+                    and currency_code = '{}'
             """.format(currency_code)
         )
     
@@ -72,20 +72,20 @@ def getIDSector(sector_name, connection = engine):
                 select id from public.investment_sector
                 where 
                     1=1
-                    and sector_name = {}
+                    and sector_name = '{}'
             """.format(sector_name)
             , con = connection
         )
 
     return df.iloc[0]['id']
 
-def getIDIndicator(industry_name, connection = engine):
+def getIDIndustry(industry_name, connection = engine):
     df = pd.read_sql(
             """
                 select id from public.investment_industry
                 where 
                     1=1
-                    and industry_name = {}
+                    and industry_name = '{}'
             """.format(industry_name)
             , con = connection
         )
@@ -221,7 +221,36 @@ def getID(table_name, attribute_name, value, connection = engine):
         return None
 
 
+def getIDExchange(exchange_name, connection = engine):
+    try:
+        df = pd.read_sql(
+                """
+                    select id from public.investment_exchange
+                    where
+                        1=1
+                        and exchange_name = '{}'
+                """.format(exchange_name)
+                , con = connection
+            )
+        return df.iloc[0]['id']
+    except:
+        return None
+    
 
+def getIDSecurityType(security_name, connection = engine):
+    try:
+        df = pd.read_sql(
+                """
+                    select id from public.investment_securitytype
+                    where
+                        1=1
+                        and security_type = '{}'
+                """.format(security_name)
+                , con = connection
+            )
+        return df.iloc[0]['id']
+    except:
+        return None
 
 
 

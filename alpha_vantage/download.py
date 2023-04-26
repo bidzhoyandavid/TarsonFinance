@@ -113,11 +113,13 @@ def alphaIncomeStatement(symbol):
         }
     
     request = session.get(AlphaVantage.BASE_URL, params = query)
-    
+
     if request.status_code != 200:
-        return print('The status code is {}'.format(request.status_code))
+        data = {}
     else:
-        return request.json() 
+        data = request.json()
+    
+    return data, request.status_code
 
 def alphaBalanceSheet(symbol):
     """
@@ -132,9 +134,11 @@ def alphaBalanceSheet(symbol):
     request = session.get(AlphaVantage.BASE_URL, params = query)
     
     if request.status_code != 200:
-        return print('The status code is {}'.format(request.status_code))
+        data = {}
     else:
-        return request.json()     
+        data = request.json()
+    
+    return data, request.status_code
 
 def alphaCashFlow(symbol):
     """
@@ -149,9 +153,11 @@ def alphaCashFlow(symbol):
     request = session.get(AlphaVantage.BASE_URL, params = query)
     
     if request.status_code != 200:
-        return print('The status code is {}'.format(request.status_code))
+        data = {}
     else:
-        return request.json() 
+        data = request.json()
+    
+    return data, request.status_code
 
 def alphaIPOCalendar():
     """
@@ -191,6 +197,7 @@ def alphaStockPrices(symbol, period, outputsize, datatype, interval = None):
     if period == 'daily':
         query = {
                 'function': 'TIME_SERIES_DAILY'
+                , 'outputsize': outputsize
                 , 'symbol': symbol
                 , 'datatype': datatype
                 , 'apikey': AlphaVantage().API_KEY            
@@ -224,9 +231,10 @@ def alphaStockPrices(symbol, period, outputsize, datatype, interval = None):
     request = session.get(AlphaVantage().BASE_URL, params = query)
     
     if request.status_code != 200:
-        return(print('The status code is {}'.format(request.status_code)))
+        data = {}
     else:
-        return outputData(inputs = 'csv', request = request)
+        data = outputData(inputs = 'csv', request = request)
+    return data, request.status_code 
         
 
 def alphaLatest(symbol, datatype):
@@ -249,9 +257,10 @@ def alphaLatest(symbol, datatype):
     request = session.get(AlphaVantage().BASE_URL, params = query)
     
     if request.status_code != 200:
-        return print('The status code is {}'.format(request.status_code))
+        data = {}
     else:
-        return outputData(inputs = 'csv', request = request)
+        data = outputData(inputs = 'csv', request = request)
+        return data, request.status_code
 
 
 # =============================================================================

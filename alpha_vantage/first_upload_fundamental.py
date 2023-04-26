@@ -16,8 +16,8 @@ from datetime import datetime, date
 symbols = pd.read_sql("""select ic.id, ic.symbol from public.investment_company ic
                           where
                               1=1
-                              and status = 'Active'
-                          order by symbol desc                         
+                              and ic.status = 'Active'
+                          order by ic.symbol asc                         
                       """, con = engine)
 
 def convertToFloat(value):
@@ -233,27 +233,32 @@ def CashFlowUpload(report, period, symbol_id, currency):
             txt = 'Quarter'
         return print("""{} Cash Flow report as of {} for {} symbol was not uploaded""".format(txt, df_temp.loc[0,'fiscalDateEnding'], symbol ))
 
+income_non_200_status = []
+income_empty_dict = []
+income_dash_symbol = []
 
 for i in tqdm(symbols.index):
     symbol_id = symbols.loc[i, 'id']
     symbol = symbols.loc[i, 'symbol']
     
     if '-' in symbol:
-        print (symbol)
+        income_dash_symbol.append(symbol)
         continue
     
-    income = alphaIncomeStatement(symbol)
+    income, income_code = alphaIncomeStatement(symbol)    
+    # balance, balance_code = alphaBalanceSheet(symbol)
+    # cash, cash_code = alphaCashFlow(symbol)  
     
-    if len(income['annualReports']) == 0:
-        print(symbol)
+    if income_code != 200:
+        income_non_200_status.append(symbol)
         continue
+    else:
+        if len(income['annualReports']) == 0:
+            income_empty_dict.append(symbol)
+            continue
 
     currency = pd.DataFrame.from_dict([income['annualReports'][0]]).loc[0, 'reportedCurrency']
     fiscal_date = pd.DataFrame.from_dict([income['annualReports'][0]]).loc[0, 'fiscalDateEnding']
-    
-    
-    balance= alphaBalanceSheet(symbol)
-    cash = alphaCashFlow(symbol)  
       
     # income stattement
     annualReports_Income = income['annualReports']
@@ -264,6 +269,30 @@ for i in tqdm(symbols.index):
     for report in quarterReports_Income:
         IncomeStatemntUpload(report = report, period = 2, symbol_id = symbol_id, currency = currency)
  
+
+
+balance_non_200_status = []
+balance_empty_dict = []
+balance_dash_symbol = []
+
+for i in tqdm(symbols.index):
+    symbol_id = symbols.loc[i, 'id']
+    symbol = symbols.loc[i, 'symbol']
+    
+    if '-' in symbol:
+        balance_dash_symbol.append(symbol)
+        continue
+    
+    balance, balance_code = alphaBalanceSheet(symbol)
+    
+    if balance_code != 200:
+        balance_non_200_status.append(symbol)
+        continue
+    else:
+        if len(income['annualReports']) == 0:
+            balance_empty_dict.append(symbol)
+            continue
+ 
     # balance sheet
     annualReports_balance = balance['annualReports']
     for report in annualReports_balance:
@@ -273,6 +302,29 @@ for i in tqdm(symbols.index):
     for report in quarterReports_balance:
         BalanceSheetUpload(report=report, period = 2, symbol_id = symbol_id, currency = currency)
          
+
+
+cash_non_200_status = []
+cash_empty_dict = []
+cash_dash_symbol = []
+
+for i in tqdm(symbols.index):
+    symbol_id = symbols.loc[i, 'id']
+    symbol = symbols.loc[i, 'symbol']
+    
+    if '-' in symbol:
+        cash_dash_symbol.append(symbol)
+        continue
+
+    cash, cash_code = alphaCashFlow(symbol)  
+    
+    if cash_code != 200:
+        cash_non_200_status.append(symbol)
+        continue
+    else:
+        if len(income['annualReports']) == 0:
+            cash_empty_dict.append(symbol)
+            continue
 
     # cash flow
     annualReports_cash = cash['annualReports']
