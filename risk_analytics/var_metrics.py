@@ -37,14 +37,14 @@ def VaRCalculation(Data, Formula, Period_Interval,  Confidence_Interval = 0.99, 
     # ===================================================
     if Formula == 'Historical simulation':
         VaR = np.quantile(Data, 1 - Confidence_Interval)
-        return(float(VaR))
+        return(float('{:.5f}'.format(VaR)))
     
     # ===================================================
     # Parametric Normal
     # ===================================================
     if Formula == 'Parametric Normal':
         VaR = Data.mean() - Data.std() * norm.ppf(Confidence_Interval)
-        return(float(VaR))
+        return(float('{:.5f}'.format(VaR)))
    
     
     # ===================================================
@@ -65,7 +65,7 @@ def VaRCalculation(Data, Formula, Period_Interval,  Confidence_Interval = 0.99, 
         EWMAstd = np.sqrt(sum(Weights * sqrdData))
         
         VaR = Data.mean() - EWMAstd * norm.ppf(Confidence_Interval)
-        return(float(VaR))
+        return(float('{:.5f}'.format(VaR)))
 
 
 def MarginVaR(Ticker, Portfolio, Shares):
@@ -116,7 +116,7 @@ def ComponentVaR(margVar: list[str]
     return comp_var
 
 
-def riskRatios(df, ratio_type):
+def riskRatios(df, ratio_type, Beta):
     """
         Calculates Sharp, Sortino, Treynor ratios
         Input:
@@ -178,21 +178,21 @@ def FillVaR(Data, Beta, Period_Interval = 252):
         df = df.sort_index(ascending=False)
         
         
-        ratios = p.starmap(riskRatios, [(df, 'sharp')
-                                        , (df, 'sortino')
-                                        , (df, 'treynor')])
+        ratios = p.starmap(riskRatios, [(df, 'sharp', None)
+                                        , (df, 'sortino', None)
+                                        , (df, 'treynor', Beta)])
         
  
         var = p.starmap(VaRCalculation, [  (df, 'Historical simulation', Period_Interval)
                                           , (df, 'Parametric EWMA', Period_Interval)
                                           , (df, 'Parametric Normal', Period_Interval)])
         
-        NewData.loc[i, 'historical_var'] = VaRCalculation(df, Formula = 'Historical simulation', Period_Interval=Period_Interval)
-        NewData.loc[i, 'parametric_var'] = VaRCalculation(df, Formula = 'Parametric Normal', Period_Interval=Period_Interval)
-        NewData.loc[i, 'ewma_var'] = VaRCalculation(df, Formula = 'Parametric EWMA', Period_Interval=Period_Interval)
-        NewData.loc[i, 'sharp_ratio'] = sharp_ratio
-        NewData.loc[i, 'sortino_ratio'] = sortino_ratio
-        NewData.loc[i, 'treynor_ratio'] = treynor_ratio
+        NewData.loc[i, 'historical_var'] = var[0]
+        NewData.loc[i, 'parametric_var'] = var[2]
+        NewData.loc[i, 'ewma_var'] = var[1]
+        NewData.loc[i, 'sharp_ratio'] = ratios[0]
+        NewData.loc[i, 'sortino_ratio'] = ratios[1]
+        NewData.loc[i, 'treynor_ratio'] = ratios[2]
             
         
         
