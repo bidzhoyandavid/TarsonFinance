@@ -35,12 +35,12 @@ for i in tqdm(symbols.index):
     symbol_id = symbols.loc[i, 'id']
     
     try:
-        data, data_code = alphaStockPrices(symbol = symbol, period = 'daily', outputsize = 'compact', datatype = 'csv')
+        data, data_code = alphaStockPrices(symbol = symbol, period = 'daily', outputsize = 'full', datatype = 'csv')
     except:
         non_downloaded.append(symbol)
         continue
     
-    time.sleep(1.2)
+    time.sleep(0.2)
     if len(data) <= 2:
         price_empty_dict.append(symbol)
         continue
@@ -51,7 +51,7 @@ for i in tqdm(symbols.index):
         
     
     data = data.rename(columns = {'timestamp' : 'date_at'})
-    data = data[data['date_at'] > '2023-04-19']
+    # data = data[data['date_at'] > '2023-04-19']
     for col in ['open', 'close', 'high', 'low', 'volume']:
         data[col] = pd.to_numeric(data[col])
     data['stock_id'] = symbol_id
@@ -65,3 +65,4 @@ for i in tqdm(symbols.index):
         symbols.loc[i, 'status'] = 'did not upload'
 
 
+symbols = symbols.merge(pd.DataFrame(price_empty_dict, columns = ['symbol']), on = 'symbol')

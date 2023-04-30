@@ -260,7 +260,8 @@ def alphaLatest(symbol, datatype):
         data = {}
     else:
         data = outputData(inputs = 'csv', request = request)
-        return data, request.status_code
+    
+    return data, request.status_code
 
 
 # =============================================================================
@@ -325,7 +326,6 @@ def alphaCrypto(symbol, period, outputsize, datatype, interval = None, market = 
                 'function': 'DIGITAL_CURRENCY_DAILY'
                 , 'symbol': symbol
                 , 'market': market
-                , 'datatype': datatype
                 , 'apikey': AlphaVantage().API_KEY
             }
     elif period == 'weekly':
@@ -333,7 +333,6 @@ def alphaCrypto(symbol, period, outputsize, datatype, interval = None, market = 
                 'function': 'DIGITAL_CURRENCY_WEEKLY'
                 , 'symbol': symbol
                 , 'market': market
-                , 'datatype': datatype
                 , 'apikey': AlphaVantage().API_KEY
             }
     elif period == 'monthly':
@@ -341,7 +340,6 @@ def alphaCrypto(symbol, period, outputsize, datatype, interval = None, market = 
                 'function': 'DIGITAL_CURRENCY_MONTHLY'
                 , 'symbol': symbol
                 , 'market': market
-                , 'datatype': datatype
                 , 'apikey': AlphaVantage().API_KEY
             }
     else:
@@ -350,9 +348,12 @@ def alphaCrypto(symbol, period, outputsize, datatype, interval = None, market = 
     request = session.get(AlphaVantage().BASE_URL, params = query)
     
     if request.status_code != 200:
-        return print('The status code is {}'.format(request.status_code))
+        data = {}
     else:
-        return outputData(inputs = 'csv', request = request)
+        response = request.json()['Time Series (Digital Currency Daily)']
+        data = pd.DataFrame.from_dict(response).T     
+        
+    return data, request.status_code
    
     
 # =============================================================================

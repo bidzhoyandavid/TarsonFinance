@@ -82,45 +82,34 @@ for i in tqdm(difference_new.index):
     symbol = difference_new.loc[i, 'symbol']
     try:
         temp = alphaCompanyOverview(symbol = symbol).T
-        if len(data) != 0:
-            companies = pd.concat([companies, temp])
+        temp = temp.rename(columns = {'Symbol': 'symbol'})
+        if len(temp) != 0:
+            merged = temp.merge(difference_new, on = 'symbol',  indicator=False, how = 'inner')
+            investment_company = uploadListingCompanies(merged = merged)
+            investment_company.to_sql('investment_company', schema = 'public', if_exists = 'append', index = False, con = engine)
+         
+            # companyratios
+            investment_companyratios = uploadNewCompanyOverview(merged)
+            investment_companyratios.to_sql('investment_companyratios', schema = 'public', if_exists = 'append', index = False, con = engine)          
         else:
-            nan.append(symbol)
+            investment_symbol = investment_symbol[investment_symbol['symbol'] == symbol]
+            investment_symbol['exchange_id'] = investment_symbol['exchange'].apply(lambda x: getIDExchange(x))
+            investment_symbol['security_type_id'] = investment_symbol['assetType'].apply(lambda x: getIDSecurityType(x))
+            investment_symbol['sector_id'] = None
+            investment_symbol['industry_id'] = None
+            investment_symbol['cik'] = None
+            investment_symbol = investment_symbol.rename(columns = {'name_x': 'name'
+                                                              , 'ipoDate': 'ipo_date'
+                                                              , 'status_x': 'status'})
+            investment_symbol = investment_symbol[['symbol', 'name', 'ipo_date', 'status', 'exchange_id'
+                                             , 'cik', 'security_type_id', 'sector_id', 'industry_id']]
+            investment_symbol['date_upload'] = current_date
+            investment_symbol['date_update'] = current_date
+            
+            investment_symbol.to_sql('investment_company', schema = 'public', if_exists = 'append', index= False, con = engine)            
     except:
         error.append(symbol)
         
-
-companies = companies.rename(columns = {'Symbol': 'symbol'})
-        
-if len(companies.columns) != 0:
-    merged = companies.merge(difference_new, on = 'symbol',  indicator=False, how = 'inner')
-
-    # common info
-    investment_company = uploadListingCompanies(merged = merged)
-    investment_company.to_sql('investment_company', schema = 'public', if_exists = 'append', index = False, con = engine)
-
-    
-    # companyratios
-    investment_companyratios = uploadNewCompanyOverview(merged)
-    investment_companyratios.to_sql('investment_companyratios', schema = 'public', if_exists = 'append', index = False, con = engine)
-    print("Full company data as of {} was uploaded".format(current_date))
-
-else:
-    difference_new['exchange_id'] = difference_new['exchange'].apply(lambda x: getIDExchange(x))
-    difference_new['security_type_id'] = difference_new['assetType'].apply(lambda x: getIDSecurityType(x))
-    difference_new['sector_id'] = None
-    difference_new['industry_id'] = None
-    difference_new['cik'] = None
-    difference_new = difference_new.rename(columns = {'name_x': 'name'
-                                                      , 'ipoDate': 'ipo_date'
-                                                      , 'status_x': 'status'})
-    difference_new = difference_new[['symbol', 'name', 'ipo_date', 'status', 'exchange_id'
-                                     , 'cik', 'security_type_id', 'sector_id', 'industry_id']]
-    difference_new['date_upload'] = current_date
-    difference_new['date_update'] = current_date
-    
-    difference_new.to_sql('investment_company', schema = 'public', if_exists = 'append', index= False, con = engine)
-    print("Restricted company data as of {} was uploaded".format(current_date))
 
 if len(error) !=0:
     print('Error symbols {} as of {}'.format(error, current_date))
