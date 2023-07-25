@@ -8,8 +8,8 @@ Created on Thu Apr  6 14:48:33 2023
 from sqlalchemy import create_engine
 import psycopg2
 from sshtunnel import SSHTunnelForwarder
-from alpaca.trading.client import TradingClient
-from alpaca.data.historical.stock import StockHistoricalDataClient
+# from alpaca.trading.client import TradingClient
+# from alpaca.data.historical.stock import StockHistoricalDataClient
 
 
 class AlphaVantage:

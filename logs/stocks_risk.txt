@@ -1,0 +1,2012 @@
+The RiskData for 2023-05-17 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-05-18 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-05-19 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-05-20 was uploaded
+The date 2023-05-21 is sunday or monday
+The date 2023-05-22 is sunday or monday
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-05-23 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-05-24 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-05-25 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-05-26 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-05-27 was uploaded
+The date 2023-05-28 is sunday or monday
+The date 2023-05-29 is sunday or monday
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-05-30 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-05-31 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-06-01 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-06-02 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-06-03 was uploaded
+The date 2023-06-04 is sunday or monday
+The date 2023-06-05 is sunday or monday
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-06-06 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-06-07 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-06-08 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-06-09 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-06-10 was uploaded
+The date 2023-06-11 is sunday or monday
+The date 2023-06-12 is sunday or monday
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-06-13 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-06-14 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-06-15 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-06-16 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-06-17 was uploaded
+The date 2023-06-18 is sunday or monday
+The date 2023-06-19 is sunday or monday
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-06-20 was uploaded
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/usr/local/lib/python3.10/dist-packages/pandas/core/arraylike.py:402: RuntimeWarning: divide by zero encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/usr/lib/python3/dist-packages/numpy/lib/function_base.py:4009: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+/home/david/Desktop/TarsonFinance/risk_analytics/var_metrics.py:130: RuntimeWarning: invalid value encountered in double_scalars
+  ratio = df.mean()/df.std()*252**0.5
+
+        
+The RiskData for 2023-06-21 was uploaded

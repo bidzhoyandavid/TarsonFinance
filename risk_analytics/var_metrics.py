@@ -128,12 +128,15 @@ def riskRatios(df, ratio_type, Beta):
     if ratio_type == 'sharp':
         try:
             ratio = df.mean()/df.std()*252**0.5
+            ratio = float('{:.5f}'.format(ratio))
         except:
             ratio = None
     
     if ratio_type == 'sortino':
         try:
             ratio = df.mean()/df[df<0].std()*252**0.5
+            ratio = float('{:.5f}'.format(ratio))
+
         except:
             ratio = None
 
@@ -142,6 +145,7 @@ def riskRatios(df, ratio_type, Beta):
             ratio = None
         else:
             ratio = df.mean()/Beta*252**0.5
+            ratio = float('{:.5f}'.format(ratio))
             
     return ratio
 
@@ -203,5 +207,20 @@ def FillVaR(Data, Beta, Period_Interval = 252):
     
     return final
 
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 

@@ -18,6 +18,7 @@ symbols = pd.read_sql(
             where
                 1=1
                 and status = 'Active'
+                and date_upload = '2023-05-11'
         """
         , con = engine
     )
@@ -44,20 +45,27 @@ for i in tqdm(symbols.index):
             , con = engine
         )
     
-    beta = pd.read_sql(
-            """
-                select beta from public.investment_companyratios
-                where
-                    1=1
-                    and name_id = {}
-            """.format(symbol_id)
-            , con = engine
-        ).loc[0, 'beta']
-    
-
-    if len(data) <=252:
+    if len(data) <=253:
         non_252_days.append(symbol)
         continue
+    else:
+        data = data.tail(757)
+    
+    try:
+        beta = pd.read_sql(
+                """
+                    select beta from public.investment_companyratios
+                    where
+                        1=1
+                        and name_id = {}
+                """.format(symbol_id)
+                , con = engine
+            ).loc[0, 'beta']
+    except:
+        beta = None
+    
+
+
     
     data['log_return'] = np.log(data['close']) - np.log(data['close'].shift(1))
     

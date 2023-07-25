@@ -14,6 +14,13 @@ from tqdm import tqdm
 from datetime import datetime, date, timedelta
 import sys
 
+
+today = date.today()
+
+if datetime.now().isoweekday() in [7, 1]:
+    sys.exit("The date {} is sunday or monday".format(today))
+
+
 # =============================================================================
 # downloading data
 # =============================================================================
@@ -71,7 +78,7 @@ difference_new = difference[difference['ipoDate'] == previous_day ][['symbol', '
 
 
 if len(difference_new) == 0:
-    sys.exit('No companies as of {}'.format(previous_day))
+    sys.exit('No new companies as of {}'.format(previous_day))
 
 
 companies = pd.DataFrame()

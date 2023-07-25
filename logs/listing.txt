@@ -1,0 +1,126 @@
+The date 2023-05-01 is sunday or monday
+Current date is: 2023-05-02
+No inactive companies
+No new companies as of 2023-05-01
+Current date is: 2023-05-03
+No inactive companies
+No new companies as of 2023-05-02
+Current date is: 2023-05-04
+No inactive companies
+No new companies as of 2023-05-03
+Current date is: 2023-05-05
+No inactive companies
+No new companies as of 2023-05-04
+Current date is: 2023-05-06
+No inactive companies
+No new companies as of 2023-05-05
+The date 2023-05-07 is sunday or monday
+The date 2023-05-08 is sunday or monday
+Current date is: 2023-05-09
+No inactive companies
+No new companies as of 2023-05-08
+Current date is: 2023-05-10
+No inactive companies
+No new companies as of 2023-05-09
+Current date is: 2023-05-11
+No inactive companies
+No new companies as of 2023-05-10
+Current date is: 2023-05-12
+No inactive companies
+No new companies as of 2023-05-11
+Current date is: 2023-05-13
+No inactive companies
+No new companies as of 2023-05-12
+The date 2023-05-14 is sunday or monday
+The date 2023-05-15 is sunday or monday
+Current date is: 2023-05-16
+No inactive companies
+No new companies as of 2023-05-15
+Current date is: 2023-05-17
+No inactive companies
+No new companies as of 2023-05-16
+Current date is: 2023-05-18
+No inactive companies
+No new companies as of 2023-05-17
+Current date is: 2023-05-19
+No inactive companies
+No new companies as of 2023-05-18
+Current date is: 2023-05-20
+No inactive companies
+No new companies as of 2023-05-19
+The date 2023-05-21 is sunday or monday
+The date 2023-05-22 is sunday or monday
+Current date is: 2023-05-23
+No inactive companies
+No new companies as of 2023-05-22
+Current date is: 2023-05-24
+No inactive companies
+No new companies as of 2023-05-23
+Current date is: 2023-05-25
+No inactive companies
+No new companies as of 2023-05-24
+Current date is: 2023-05-26
+No inactive companies
+No new companies as of 2023-05-25
+Current date is: 2023-05-27
+No inactive companies
+No new companies as of 2023-05-26
+The date 2023-05-28 is sunday or monday
+The date 2023-05-29 is sunday or monday
+Current date is: 2023-05-30
+No inactive companies
+No new companies as of 2023-05-29
+Current date is: 2023-05-31
+No inactive companies
+No new companies as of 2023-05-30
+Current date is: 2023-06-01
+No inactive companies
+No new companies as of 2023-05-31
+Current date is: 2023-06-02
+No inactive companies
+No new companies as of 2023-06-01
+Current date is: 2023-06-03
+No inactive companies
+No new companies as of 2023-06-02
+The date 2023-06-04 is sunday or monday
+The date 2023-06-05 is sunday or monday
+Current date is: 2023-06-06
+No inactive companies
+No new companies as of 2023-06-05
+Current date is: 2023-06-07
+No inactive companies
+No new companies as of 2023-06-06
+Current date is: 2023-06-08
+No inactive companies
+No new companies as of 2023-06-07
+Current date is: 2023-06-09
+No inactive companies
+No new companies as of 2023-06-08
+Current date is: 2023-06-10
+No inactive companies
+No new companies as of 2023-06-09
+The date 2023-06-11 is sunday or monday
+The date 2023-06-12 is sunday or monday
+Current date is: 2023-06-13
+No inactive companies
+No new companies as of 2023-06-12
+Current date is: 2023-06-14
+No inactive companies
+No new companies as of 2023-06-13
+Current date is: 2023-06-15
+No inactive companies
+No new companies as of 2023-06-14
+Current date is: 2023-06-16
+No inactive companies
+No new companies as of 2023-06-15
+Current date is: 2023-06-17
+No inactive companies
+No new companies as of 2023-06-16
+The date 2023-06-18 is sunday or monday
+The date 2023-06-19 is sunday or monday
+Current date is: 2023-06-20
+No inactive companies
+No new companies as of 2023-06-19
+Current date is: 2023-06-21
+No inactive companies
+No new companies as of 2023-06-20

@@ -288,12 +288,11 @@ def alphaNews(symbol
     request = session.get(AlphaVantage().BASE_URL, params = query)
     
     if request.status_code != 200:
-        return print('The status code is {}'.format(request.status_code))
+        data = {}
     else:
         response = outputData(inputs = 'json', request = request)
         data = json_normalize(response.loc['feed', 0])
-        return data
-
+        return data, request.status_code
 # =============================================================================
 # crypto
 # =============================================================================
